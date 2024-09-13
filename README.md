@@ -6,7 +6,7 @@ INSTALLATION INSTRUCTIONS Open your unity package manager manifest (YourProject/
 
 Add a new entry...
 
-"com.maxprofitness.login": "https://github.com/ASGSLLC/MaxProLogin.git?path=Assets/Plugins/Package",
+"com.maxprofitness.login": "https://github.com/ASGSLLC/MaxPro_Rowing.git?path=Assets/Plugins/Package",
 
 If you want to keep up to date with this repo, then you're done.
 
