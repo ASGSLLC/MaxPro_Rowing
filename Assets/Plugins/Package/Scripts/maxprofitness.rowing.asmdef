@@ -1,0 +1,20 @@
+{
+    "name": "maxprofitness.rowing",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe1302b8bd2041e47b3ab1a9e431c409",
+        "GUID:dbf55a73da121e7458224b914a8065ed",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ROWING"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

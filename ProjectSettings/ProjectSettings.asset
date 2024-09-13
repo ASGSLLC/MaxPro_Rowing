@@ -736,7 +736,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: DOTWEEN;FIREBASE;FIREBASE_AUTH
+    Android: FIREBASE;FIREBASE_AUTH;MAXPRO_LOGIN
     EmbeddedLinux: DOTWEEN
     GameCoreScarlett: DOTWEEN
     GameCoreXboxOne: DOTWEEN
