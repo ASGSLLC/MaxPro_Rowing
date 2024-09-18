@@ -1,6 +1,7 @@
 //using _Project.App.Scripts.UI.Metrics;
 //using _Project.RowingCanoe.Scripts.CanoeRefactor;
 using UnityEngine;
+using maxprofitness.rowing;
 using UnityEngine.Serialization;
 //using MaxProFitness.SharedSound;
 

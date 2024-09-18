@@ -12,7 +12,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4150f8993bd6e7a59fb9c517a8415d0e16fb4a48"
+      "hash": "b47b68e26d36b01f5667cffe8cab80da21d5d518"
     },
     "com.unity.ads.ios-support": {
       "version": "1.0.0",

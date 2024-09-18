@@ -443,7 +443,7 @@ namespace maxprofitness.rowing
 
         #region SAVE/LOAD ROWING METRICS TO/FROM JSON
 
-#if !MAXPRO_LOGIN
+#if MAXPRO_LOGIN
         //-----------------------------//
         public void SaveLocalRowingMetricsToJson(MatchResult _matchResult, RowingMetrics _rowingMetricsResult)
         //-----------------------------//
