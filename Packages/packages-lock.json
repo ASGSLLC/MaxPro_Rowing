@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9057452c86079e4265228480b1439442894d5078"
+    },
+    "com.maxprofitness.login": {
+      "version": "https://github.com/ASGSLLC/MaxProLogin.git?path=Assets/Plugins/Package",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4150f8993bd6e7a59fb9c517a8415d0e16fb4a48"
+    },
     "com.unity.ads.ios-support": {
       "version": "1.0.0",
       "depth": 0,
@@ -175,7 +189,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
+      "version": "3.0.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
